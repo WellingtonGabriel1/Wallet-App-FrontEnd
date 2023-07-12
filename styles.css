@@ -68,13 +68,18 @@ button {
     border-color: #5947cd;
     border-width: 2px;
     border-style: solid;
+    cursor: pointer;
 }
 
 button.small {
+    border-width: 2px;
+    border-color: #5947cd;
+    border-style: solid;
     width: 90px;
     height: 36px;
-    background-color: #f4f4f9;
+    background-color: #ffffff;
     color: #010400;
+    font-weight: bold;
     font-size: 14px;
     border-radius: 8px;
     cursor: pointer;
