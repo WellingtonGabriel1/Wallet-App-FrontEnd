@@ -1,5 +1,7 @@
 # Wallet App
 
+<img src="https://github.com/WellingtonGabriel1/Wallet-App-FrontEnd/blob/main/Preview.png" alt="Wallet Preview" height="500">
+
 ## Introduction
 
 This is an finances management dashboard made with Javascript, HTML and CSS. The main objective is
